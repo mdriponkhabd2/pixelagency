@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Agency",
+  "description": "Premium full-stack digital agency website with a modern Black & Orange design, dynamic admin panel, editable pricing system, secure authentication, and responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
